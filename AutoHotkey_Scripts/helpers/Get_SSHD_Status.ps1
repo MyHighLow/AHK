@@ -1,0 +1,1 @@
+Get-Service -Name sshd | Select-Object -Property Name, StartType, Status
