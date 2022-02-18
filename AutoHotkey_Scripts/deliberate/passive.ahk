@@ -1,3 +1,3 @@
 PrintScreen::
-MsgBox, 4, , Would you like to suck these nuts?
+MsgBox, 4, , This is a test message
 return
