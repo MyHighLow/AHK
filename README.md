@@ -23,3 +23,8 @@ Stores powershell scripts that are utilized by autohotkey scripts to simplify mo
 ### menu/
 Stores AHK scripts. Scripts in menu/ will be automatically detected and displayed by deliberate/ahk_menu.ahk
 
+# Images
+## AHK Menu
+![ahk_menu](https://user-images.githubusercontent.com/30155130/154776872-a41d4e05-ab66-497e-8294-433f34b5c89b.png)
+## Remote Manager Interface
+![Remote_Manager](https://user-images.githubusercontent.com/30155130/154776876-dc1e146d-3f72-4803-b8c4-92d8b7b0f028.png)
