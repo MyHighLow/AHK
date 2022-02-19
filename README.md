@@ -1,6 +1,6 @@
 # Autohotkey Network Utilites and Script Manager
 
-##Concept
+## Concept
 The idea behind this project is to centralize Auto Hotkey scripts into a single, centralized menu. This allows for more niche scripts to be readily accessible without binding them to key-combinations.
 
 ## Menu Items
