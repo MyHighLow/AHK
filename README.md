@@ -1,5 +1,8 @@
 # Autohotkey Network Utilites and Script Manager
 
+##Concept
+The idea behind this project is to centralize Auto Hotkey scripts into a single, centralized menu. This allows for more niche scripts to be readily accessible without binding them to key-combinations.
+
 ## Menu Items
 ### network_info.ahk
 This AHK script is intended to be launched from the ahk_menu, but can be run manually as well. Displays network info that would be useful for hosting SSH connections, such as interface names, IP Adresses, Subnet Prefixes, and Default Gateways. This is intended to give a more simplified view of network information than ipconfig gives by default.
